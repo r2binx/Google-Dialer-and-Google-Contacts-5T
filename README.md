@@ -6,4 +6,5 @@ OnePlus 5 should work as well but not tested.
 Sorry for another update, it should be fine for now :)
 
 [feel free to contact me on XDA if you encounter any problems](https://forum.xda-developers.com/member.php?u=6077444)
+
 [Donate](https://www.paypal.me/RobinHaerle)

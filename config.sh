@@ -40,9 +40,10 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
-  ui_print "*******************************"
+  ui_print "************************************"
+  ui_print "     Google Dialer and Contacts     "
+  ui_print "           for OnePlus 5T           "
+  ui_print "************************************"
 }
 
 ##########################################################################################
@@ -63,6 +64,7 @@ REPLACE="
 # Construct your own list here, it will override the example above
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
+/system/priv-app/OPInCallUI
 "
 
 ##########################################################################################
@@ -96,4 +98,3 @@ set_permissions() {
 # update-binary. Refrain from adding code directly into update-binary, as it will make it
 # difficult for you to migrate your modules to newer template versions.
 # Make update-binary as clean as possible, try to only do function calls in it.
-

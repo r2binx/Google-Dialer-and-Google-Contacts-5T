@@ -1,4 +1,5 @@
 <permissions>
     <library name="com.google.android.dialer.support"
-            file="/system/framework/com.google.android.dialer.support.jar" />
+      file="/system/framework/com.google.android.dialer.support.jar" />
+    <feature name="com.google.android.apps.dialer.SUPPORTED" />
 </permissions>

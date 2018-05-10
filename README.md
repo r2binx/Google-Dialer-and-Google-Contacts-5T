@@ -7,6 +7,11 @@ Both apps are updatable through the Play Store.
 
 ## Changelog
 
+### v1.2
+- updated phone & contacts base apk 
+- updatable through the Play Store again
+- fully compatible with Oreo 
+
 ### v1.1.1
 - fixed for the OP5
 **thanks a lot Pho3nX @ xda!**
